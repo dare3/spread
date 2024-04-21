@@ -21,7 +21,7 @@ findMin(1,-1) // -1
 findMin(3,1) // 1
 ​
 ### mergeObjects
-================
+
 Write a function called mergeObjects that accepts two objects and returns a new object which contains all the keys and values of the first object and second object.
 mergeObjects({a:1, b:2}, {c:3, d:4}) // {a:1, b:2, c:3, d:4}
 
